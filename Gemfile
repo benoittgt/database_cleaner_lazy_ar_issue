@@ -37,7 +37,7 @@ group :development do
 end
 
 
-gem "factory_bot_rails", path: "../factory_bot_rails"
+gem "factory_bot_rails"
 
 gem "bootsnap", "~> 1.17"
 
